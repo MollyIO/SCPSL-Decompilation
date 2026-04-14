@@ -1,0 +1,17 @@
+﻿Раунд завершено!
+SCP ПЕРЕМОГЛИ
+Nine-Tailed Fox ПЕРЕМОГЛИ
+Персонал класу D ПЕРЕМОГЛИ
+НІЧИЯ
+Вони відповідальні за смерть [summary_scpfrags] людей.
+Небезпека була ліквідована. Тепер тут безпечно.
+Вся Служба Безпеки Установи була знищена.
+Всі сторони понесли втрати і частково виконали свої задачі. Переможця немає.
+[summary_d_escaped] Персоналу класу D втекло
+[summary_s_escaped] Вчених вижило
+Детонація Альфа боєголовки знищила [summary_warhead_kills] суб'єктів.
+Альфа боєголовка не була здетонована.
+Раунд тривав [summary_round_minutes] хвилин і [summary_round_seconds] секунд.
+[summary_scp_terminated] SCP знищено
+Наступний раунд через [summary_next_round_countdown] секунд.
+You have dealed [summary_damages] damages, and killed [summary_kills] players.

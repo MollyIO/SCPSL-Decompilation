@@ -1,0 +1,41 @@
+namespace AmplifyBloom
+{
+	public enum BloomPasses
+	{
+		Threshold = 0,
+		ThresholdMask = 1,
+		AnamorphicGlare = 2,
+		LensFlare0 = 3,
+		LensFlare1 = 4,
+		LensFlare2 = 5,
+		LensFlare3 = 6,
+		LensFlare4 = 7,
+		LensFlare5 = 8,
+		DownsampleNoWeightedAvg = 9,
+		DownsampleWithKaris = 10,
+		DownsampleWithoutKaris = 11,
+		DownsampleWithTempFilterWithKaris = 12,
+		DownsampleWithTempFilterWithoutKaris = 13,
+		HorizontalBlur = 14,
+		VerticalBlur = 15,
+		VerticalBlurWithTempFilter = 16,
+		UpscaleFirstPass = 17,
+		Upscale = 18,
+		WeightedAddPS1 = 19,
+		WeightedAddPS2 = 20,
+		WeightedAddPS3 = 21,
+		WeightedAddPS4 = 22,
+		WeightedAddPS5 = 23,
+		WeightedAddPS6 = 24,
+		WeightedAddPS7 = 25,
+		WeightedAddPS8 = 26,
+		BokehWeightedBlur = 27,
+		BokehComposition2S = 28,
+		BokehComposition3S = 29,
+		BokehComposition4S = 30,
+		BokehComposition5S = 31,
+		BokehComposition6S = 32,
+		Decode = 33,
+		TotalPasses = 34
+	}
+}

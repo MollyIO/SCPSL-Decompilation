@@ -1,0 +1,17 @@
+Herkesi oldur\nHickimsenin kacmasina izin verme\nDiger<color=#f00>SCPler</color> ile calis
+Tesisten kac\nDiger <color=#008f1e>Kaos Isyancisi elemanlariyla calis</color>\nBaskalarindan uzak dur
+Yakin zamanda yeniden dogacaksin.
+Herkesi oldur\nHickimsenin kacmasina izin verme\nDiger <color=#f00>SCPler</color> ile calis
+<color=#FFFF7CFF>Arastirmacilarin</color> kacmasina yardim et\nBaska kisileri etkisiz hale getir
+Herkesi oldur\nHickimsenin kacmasina izin verme\nDiger<color=#f00>SCPler</color> ile calis
+Tesisten kac\nDiger<color=#0096FF>MTF'ler</color> ile calis\nBaskalarindan uzak dur
+Herkesi oldur\nHickimsenin kacmasina izin verme\nDiger<color=#f00>SCPler</color> ile calis
+<color=#FF8E00>Class-D Elemanlarinin</color> kacmasina yardim et\nBaska kisileri etkisiz hale getir
+Herkesi oldur\nHickimsenin kacmasina izin verme\nDiger<color=#f00>SCPler</color> ile calis
+Herkesi oldur\nHickimsenin kacmasina izin verme\nDiger<color=#f00>SCPler</color> ile calis
+<color=#FFFF7CFF>arastirmacilarin</color> kacmasina yardim et\nBaska kisileri etkisiz hale getir
+<color=#FFFF7CFF>arastirmacilarin</color> kacmasina yardim et\nBaska kisileri etkisiz hale getir
+<color=#FFFF7CFF>arastirmacilarin</color> kacmasina yardim et\nBaska kisileri etkisiz hale getir
+Tamamlamak icin gorevleri takip et.
+Help <color=#FFFF7CFF>scientists</color> to escape\nCooperate with <color=#0096FF>MTF</color>\nNeutralize other subjects
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#f00>SCPs.</color>

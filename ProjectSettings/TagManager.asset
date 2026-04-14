@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - DoorButton
+  - SecondDoor
+  - Speaker
+  - PlayerModel
+  - TurretButton
+  - Pickup
+  - SP_CDP
+  - SP_173
+  - 914_knob
+  - 914_use
+  - ElevatorButton
+  - SP_106
+  - Lever
+  - SP_MTF
+  - AW_Button
+  - AW_Detonation
+  - SP_049
+  - SP_RSC
+  - SP_079
+  - Locker
+  - Detector
+  - 294
+  - RoomID
+  - Ragdoll
+  - Target
+  - PD_EXIT
+  - Fire
+  - FemurBreaker
+  - Summary
+  - SP_CI
+  - SP_STUNTED
+  - CCTV
+  - LiftTarget
+  - ChatMessage
+  - Spawnpoint
+  - SpeakingInfo
+  - DoorPoint0
+  - DoorPoint
+  - DoorPoint-1000
+  - DoorPoint-1001
+  - AW_Panel
+  - SCP_096
+  - SP_GUARD
+  - WS
+  - SCP_939
+  - GeneratorSpawn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Pickup
+  - Weapon_my
+  - Weapon_other
+  - Light
+  - Hitbox
+  - Glass
+  - Target173
+  - NonWeaponable
+  - Ragdoll
+  - CCTV
+  - Interface079
+  - Grenade
+  - Smoke
+  - Icon
+  - Skybox
+  - PlyCenter
+  - DestroyedDoor
+  - PlayerModel
+  - Door
+  - BreakableGlass
+  - Blood&Decals
+  - Locker
+  - 
+  m_SortingLayers:
+  - name: Sight
+    uniqueID: 328081209
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,131 @@
+#Server main settings
+server_name: My Server Name
+#default - uses server_name
+player_list_title: default
+serverinfo_pastebin_id: 7wV681fT
+server_ip: auto
+max_players: 20
+port_queue:
+ - 7777
+ - 7778
+ - 7779
+ - 7780
+ - 7781
+ - 7782
+ - 7783
+ - 7784
+
+#Spawn settings
+minimum_MTF_time_to_spawn: 280
+maximum_MTF_time_to_spawn: 350
+priority_mtf_respawn: true
+use_crypto_rng: false
+ci_respawn_percent: 35
+ci_on_start_percent: 10
+team_respawn_queue: 40143140314414041340
+
+#Random-stuff settings (-1: random)
+server_forced_class: -1
+map_seed: -1
+
+#Misc gameplay settings
+intercom_cooldown: 120
+intercom_max_speech_time: 20
+auto_round_restart_time: 10
+friendly_fire: false
+warhead_tminus_start_duration: 90
+human_grenade_multiplier: 0.7
+scp_grenade_multiplier: 1
+lock_gates_on_countdown: true
+isolate_zones_on_countdown: false
+open_doors_on_countdown: true
+allow_playing_as_tutorial: true
+
+#Pocket Dimension settings
+pd_exit_count: 2
+pd_random_exit_rids:
+pd_random_exit_rids_after_decontamination:
+pd_refresh_exit: false
+
+#Disarmer settings
+commander_can_cuff_mtf: true
+mtf_can_cuff_researchers: true
+ci_can_cuff_class_d: true
+cuffed_escapee_change_team: default
+
+#Spawn Protect settings
+spawn_protect_disable: true
+spawn_protect_time: 30
+spawn_protect_team: 1, 2
+spawn_protect_allow_dmg: true
+
+#Grenades chaining options
+#-1 to unlimited, 0 to disable chain reaction
+
+#max amount of grenades that can be activated by a single grenade
+grenade_chain_limit: 10
+
+#limit of length of grenades chain
+grenade_chain_length_limit: 4
+
+#Security & Anticheat (default settings are good enough in most cases)
+online_mode: true
+ip_banning: true
+enable_whitelist: false
+hide_from_public_list: false
+forward_ports: true
+enable_query: false
+query_port_shift: 0
+query_use_IPv6: true
+administrator_query_password: none
+enable_sync_command_binding: false
+anti_player_wallhack: default
+
+noclip_protection_output: false
+speedhack_protection_output: false
+
+#Administrative actions broadcast options
+broadcast_kicks: false
+broadcast_kick_text: %nick% has been kicked from this server.
+broadcast_kick_duration: 5
+broadcast_bans: true
+broadcast_ban_text: %nick% has been banned from this server.
+broadcast_ban_duration: 5
+
+#SCP-079 settings
+#And for other levels (0-4) in the same way
+#level 0 = access tier 1, level 1 = access tier 2, ...
+scp079_level_0_unlock_exp: default
+scp079_level_0_mana_per_second: default
+scp079_level_0_max_mana: default
+scp079_level_0_powerdrain_duration: default
+scp079_level_0_lockdown_duration: default
+
+#Ability costs for SCP-079
+scp079_ability_camera_switch: default
+scp079_ability_elevator_ride: default
+
+scp079_ability_door_interaction_default: default
+scp079_ability_door_lockdown_default: default
+scp079_door_blacklist: 
+
+scp079_ability_door_interaction_cont_lvl_1: default
+scp079_ability_door_lockdown_cont_lvl_1: default
+scp079_ability_door_interaction_cont_lvl_2: default
+scp079_ability_door_lockdown_cont_lvl_2: default
+scp079_ability_door_interaction_cont_lvl_3: default
+scp079_ability_door_lockdown_cont_lvl_3: default
+
+scp079_ability_door_interaction_armory_lvl_1: default
+scp079_ability_door_lockdown_armory_lvl_1: default
+scp079_ability_door_interaction_armory_lvl_2: default
+scp079_ability_door_lockdown_armory_lvl_2: default
+scp079_ability_door_interaction_armory_lvl_3: default
+scp079_ability_door_lockdown_armory_lvl_3: default
+
+scp079_ability_door_interaction_exit_acc: default
+scp079_ability_door_lockdown_exit_acc: default
+scp079_ability_door_interaction_incom_acc: default
+scp079_ability_door_lockdown_incom_acc: default
+scp079_ability_door_interaction_chckpoint_acc: default
+scp079_ability_door_lockdown_chckpoint_acc: default

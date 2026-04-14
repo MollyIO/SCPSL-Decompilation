@@ -1,0 +1,17 @@
+<size=80>YOU HAVE BEEN KICKED</size>\nThe server forced to stop the connection.\n<size=26>\nYou've probably been temporarily banned by the administrator\nor you don't meet the requirements of the server (e.g. connection to Steam).\nFor possible time bans - the game authors are not responsible.\n</size>
+<size=80>DISCONNECTED</size>\nThe specified host not available.
+<size=80>DISCONNECTED</size>\nThe specified connectionId doesn't exist.
+<size=80>DISCONNECTED</size>\nThe specified channel doesn't exist.
+<size=80>DISCONNECTED</size>\nServer is full.
+<size=80>DISCONNECTED</size>\nReceived wrong packet.
+<size=80>DISCONNECTED</size>\nConnection lost (timed out).
+<size=80>DISCONNECTED</size>\nConnection lost (timed out).
+<size=80>DISCONNECTED</size>\nOperation is not supported.
+<size=80>DISCONNECTED</size>\nWrong server config (versions not compatible).
+<size=80>DISCONNECTED</size>\nWrong server config.
+<size=80>DISCONNECTED</size>\nThe address supplied to connect to was invalid or could not be resolved.
+<size=80>DISCONNECTED</size>\nAn unexpected problem has been detected!
+<size=80>PLEASE WAIT</size>\n<size=35>Establishing connection...</size>
+<size=80>ROUND RESTART</size>\n<size=35>The server is restarting level...</size>
+<size=80>PLEASE WAIT</size>\n<size=35>Loading tutorial...</size>
+<size=80>VERSION INCOMPATIBILITY</size>\nYour game version is different than the server\n(Your - [your]; Server - [server])

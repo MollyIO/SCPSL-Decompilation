@@ -1,0 +1,16 @@
+La partie est terminée!
+Les SCPs ont gagnés
+Les MTFs ont gagnés
+Les CLASSES-D ont gagnés
+IMPASSE
+Ils sont résponsables pour avoir tués [summary_scpfrags] êtres humains.
+Dangé éliminé. Le bâtiment est à nouveau sécurisé.
+Tout le personnel de sécurité ont été éliminés.
+Les deux camps ont eu beaucoup de pertes,et en on bénéficiés grandement. Le gagnant est indéterminé.
+[summary_d_escaped] classe-D ont survécus
+[summary_s_escaped] scientifiques ont survécus
+La détonation de l'Alpha Warhead à éliminé [summary_warhead_kills] êtres vivants.
+L'Alpha Warhead n'a pas été activée durant cette mission.
+La mission à pris [summary_round_minutes] minutes et [summary_round_seconds] secondes.
+[summary_scp_terminated] SCPs éliminés
+Partie suivante dans [summary_next_round_countdown] secondes.

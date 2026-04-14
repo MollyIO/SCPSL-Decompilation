@@ -1,0 +1,7 @@
+Druk op een pijltje toets om te beginnen...
+Navigeren - pijltje toets naar BOVEN/BENEDEN \nSelecteren - pijltje toets naar RECHTS \nTerug - pijltje toets naar LINKS
+[var_name]\n\nMunitie type: [var_atype]\nReserve munitie: [var_ares]\nMagazijn grootte: [var_mag]\n\nMaximale schade: [var_maxdmg]\nEffectieve schade: [var_effdmg]\nSchoten per seconde: [var_sps]\n\nBeschikbare aanpassingen: [var_custs]\n\nPIJLTJE TOETS NAAR RECHTS OM HET WAPEN AAN TE PASSEN
+You are going to drop [var_nom]\nUP/DOWN arrow keys to change quantity.\nRIGHT arrow to drop.\nLEFT arrow to back.
+Not enough ammo to drop (type [var_nom]). \nLEFT arrow to back.
+GEWEERLOOP
+OVERIG

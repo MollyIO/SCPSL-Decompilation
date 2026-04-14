@@ -1,0 +1,69 @@
+#Let's assign roles (you can modify them and create custom roles below)
+Members:
+ - SomeSteamId64: owner
+ - SomeOtherSteamId64: admin
+ - AnotherSteamId64: admin
+
+#Should Secret Lab development staff be able to use the Remote Admin?
+enable_staff_access: false
+
+#Should Secret Lab CEO and managers be able to use Remote Admin? (We do not abuse our powers) 
+enable_manager_access: true
+
+#Allow remote admin access for the banning team, to allow them searching and fightung cheaters globally
+enable_banteam_access: true
+
+#Let's define roles
+#use color "none" to disable badge
+#you can add own roles too
+#cover means that this local badge is more important than a global badge and will cover it
+#hidden means that this local badge is hiddeny by default (always you can use "hidetag" and "showtag" commands in game console or text-based remote admin)
+
+owner_badge: SERVER OWNER
+owner_color: red
+owner_cover: true
+owner_hidden: false
+
+admin_badge: ADMIN
+admin_color: red
+admin_cover: true
+admin_hidden: false
+
+moderator_badge: MODERATOR
+moderator_color: silver
+moderator_cover: true
+moderator_hidden: false
+
+#And add them to the roles list
+Roles:
+ - owner
+ - admin
+ - moderator
+
+#Let's setup permissions for roles
+#More info can be found on our wiki: https://en.scpslgame.com/index.php/Docs:Permissions
+Permissions:
+ - KickingAndShortTermBanning: [owner, admin, moderator]
+ - BanningUpToDay: [owner, admin, moderator]
+ - LongTermBanning: [owner, admin]
+ - ForceclassSelf: [owner, admin, moderator]
+ - ForceclassToSpectator: [owner, admin, moderator]
+ - ForceclassWithoutRestrictions: [owner, admin]
+ - GivingItems: [owner, admin]
+ - WarheadEvents: [owner, admin, moderator]
+ - RespawnEvents: [owner, admin]
+ - RoundEvents: [owner, admin, moderator]
+ - SetGroup: [owner]
+ - GameplayData: [owner, admin]
+ - Overwatch: [owner, admin, moderator]
+ - FacilityManagement: [owner, admin, moderator]
+ - PlayersManagement: [owner, admin]
+ - PermissionsManagement: [owner]
+ - ServerConsoleCommands: []
+ - ViewHiddenBadges: [owner, admin, moderator]
+
+#Set to "none" in order to disable password.
+#WE DON'T RECOMMEND USING PASSWORD!!!
+#SETUP STEAMID AUTHENTICATION INSTEAD (of the top of this config file)!
+override_password: none
+override_password_role: owner

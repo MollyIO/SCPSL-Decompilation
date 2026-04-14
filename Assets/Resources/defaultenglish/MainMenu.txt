@@ -1,0 +1,56 @@
+JOIN
+CLOSE
+SHADOW RESOLUTION
+SETTINGS
+BASED ON <i>SCP: CONTAINMENT BREACH</i>
+BACK
+LANGUAGE
+ANTIALIASING
+Change details:\n-PIXEL LIGHT COUNT - maximum number of light sources that have their light rendered on individual pixels.\n-V-Sync - enable synchronising with the refresh rate of the display device.
+JOIN GAME
+POST\nPROCESSING
+CREDITS
+QUIT GAME
+Fullscreen mode
+SCREEN SETTINGS
+COLOR CORRECTION
+Enter IP address...
+SCREEN RESOLUTION
+PLAY
+PIXEL LIGHT COUNT
+SHADOW TYPE
+SHADOWS
+CREATE GAME
+Change post-processing settings. These changes are not affecting on performance. Leaving default values is recommended.
+Light rendering mode:\nWhen off - it makes the game look worse. It is recommended to disable it only if you have very low-end setup
+V-SYNC
+CONNECT
+QUALITY SETTINGS
+Change shadow preferences. Settings these sliders at lower values may increase gameplay smoothness. 
+MAIN MENU
+LIGHT RENDERING MODE
+AMBIENT OCCLUSION
+SHADOW DISTANCE
+DETAILS
+3. SCP-914
+TUTORIALS
+WARNING
+Browse available servers
+Don't show it again
+How would you like to connect?
+SERVER BROWSER
+OKAY
+FIND MATCH
+2. Using weapons
+We use Discord as a forum. No installation needed.\n(click the logo to join)
+By default, the server will set up on the local network.\nYour friends will need the direct IP address to connect.\nIf you want to set up a public server, select LocalAdmin.exe and follow the instructions.\nIf you have any questions, please ask our technical support (link in the main menu)
+1. The basics
+The presented game is still in a public beta.\nYou may experience connection problems and many other bugs.\nThe current state does not reflect the final version.
+4. (more tutorials later)
+DIRECT CONNECT
+TECH SUPPORT / FORUM
+SOUND VOLUME
+Enter the IP address of the specific server.
+DOWNLOADING DATA
+NO SERVERS AVAILABLE
+PRESS ESC TO CLOSE / CANCEL

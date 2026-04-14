@@ -1,0 +1,17 @@
+Egy robbanástól halt meg.
+Egy esés véget vetett az életének.
+Áldozatként halt meg, hogy újra elzárják az SCP-106-ot.
+Elveszett a "Pocket" dimenzióban.
+Ez az SCP-106 maradéka.
+Magasfeszültésgű elektromos sokk.
+Egy nehéz szerkezet nyomta össze.
+Túl sok lőtt sérülés van a testen. Legtöbbet [ammotype] típusú lőszert használtak.
+Eltörték a nyakát, a koponya aljánál.
+Nem élte túl a találkozást az SCP-106-tal.
+Kigyógyult a pestisből.
+A halál oka ismeretlen.
+Ez <b>[user]</b> teste, a következő volt: [class].\n\nA halál oka: [cause]
+Az SCP-096 darabokra tépte.
+Koponyára mért erőteljes harapás.
+Erősen korrozív anyag által szétmállott.
+Robbanás utáni sérülések.

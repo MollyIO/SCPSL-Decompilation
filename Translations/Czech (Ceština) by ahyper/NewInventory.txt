@@ -1,0 +1,30 @@
+Janitor Keycard:Karta
+Scientist Keycard:Karta
+Research Supervisor Keycard:Karta
+Zone Manager Keycard:Karta
+Guard Keycard:Karta 
+MTF Cadet Keycard:Karta
+Containment Engineer Keycard:Karta
+MTF Lieutenant Keycard:Karta
+MTF Commander Keycard:Karta 
+Facility Manager Keycard:Karta
+Chaos Insurgency Pøístupní zaøízení
+O5-level karta
+Radio:SR = Dlouhá vzdálenost \nMR = Støední vzdálenost \nLR = Daleká vzdálenost\nUR = Ultra vzdálenost \nPoužitím delších vzdálenostích vede k vìtší spotøebì baterie.
+COM-15 Sidearm:No description
+First AID Kit:Vyléèí tvoje zranìní.
+Flashlight:Budiž svìtlo!
+Micro H.I.D.:Mobilní intezivní elektrický kanón na jedno použití.
+Coin:No description
+Cup:No description
+Weapon Manager Tablet:Mùžeš odhodit náboje & Vylepšit zbranì.
+MTF-E11-SR:No description
+Project 90:No description
+Dropped 5.56:No description
+MP7:No description
+Logicer:No description
+Frag Grenade:Boom!
+Flashbang Grenade:Oslepí tvé nepøátele.
+Disarmer:Levým tlaèítkem myši odzbrojíš a zatkneš nepøítele. \nDrž E pro propuštìní hráèe.
+Dropped 7.62:No description.
+Dropped 9mm:No description.

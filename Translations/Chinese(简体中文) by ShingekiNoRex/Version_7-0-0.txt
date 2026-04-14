@@ -1,0 +1,5 @@
+﻿你死了
+按下 {KEYBINDING_INTERACTION} 放置 <color=yellow>武器管理面板</color>.
+按下 {KEYBINDING_INTERACTION} 捡起 <color=yellow>武器管理面板</color>.
+该 <color=yellow>工作站</color> 已连接其他人的 <color=yellow>武器管理面板</color>.
+你需要一个 <color=yellow>武器管理面板</color> 来使用 <color=yellow>工作站</color>.

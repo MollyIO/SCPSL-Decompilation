@@ -1,0 +1,14 @@
+YOU CAN GIVE ORDERS
+FOLLOW ORDERS
+THE SAME PERMISSION LEVEL
+Class-D Personnel escaped
+Scientists survived
+Killed by SCP
+Terminated SCP subjects
+Alpha Warhead
+Detonated
+Unused
+The next round will start within [time] seconds.
+SPECIAL ABILITY
+CREATE SINKHOLE
+USE SINKHOLE

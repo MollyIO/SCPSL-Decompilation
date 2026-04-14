@@ -1,0 +1,5 @@
+Zemøel jsi
+Zmáèkni {KEYBINDING_INTERACTION} pro položení <color=yellow>Weapon Manager Tablet</color>.
+Zmáèkni {KEYBINDING_INTERACTION} pro sebrání <color=yellow>Weapon Manager Tablet</color>.
+Toto <color=yellow>workstation</color> již nìkdo používá, nemùžeš položit <color=yellow>Weapon Manager Tablet</color>.
+Potøebuješ <color=yellow>Weapon Manager Tablet</color> pro použití <color=yellow>workstation</color>.
