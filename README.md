@@ -22,4 +22,5 @@ No original assets or proprietary content are claimed as original work or redist
 ## Credits
 
 SCP: Secret Laboratory was originally created by Hubert Moszka and is now developed by Northwood Studios.
+
 Decompilation by me 😊 (Discord: @nomodev)
