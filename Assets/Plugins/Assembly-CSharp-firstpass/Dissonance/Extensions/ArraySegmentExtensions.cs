@@ -35,7 +35,7 @@ namespace Dissonance.Extensions
 			}
 		}
 
-		public static ArraySegment<T> CopyTo<T>(this ArraySegment<T> source, [NotNull] T[] destination, int destinationOffset = 0) where T : struct
+		public static void CopyTo<T>(this ArraySegment<T> source, [NotNull] T[] destination, int destinationOffset = 0) where T : struct
 		{
 			if (destination == null)
 			{
@@ -46,7 +46,6 @@ namespace Dissonance.Extensions
 				throw new ArgumentException("Insufficient space in destination array", "destination");
 			}
 			Array.Copy(source.Array, source.Offset, destination, destinationOffset, source.Count);
-			return new ArraySegment<T>(destination, destinationOffset, source.Count);
 		}
 
 		internal static int CopyFrom<T>(this ArraySegment<T> destination, [NotNull] T[] source)

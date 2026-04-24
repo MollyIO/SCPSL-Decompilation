@@ -152,7 +152,9 @@ namespace Dissonance.Audio.Playback
 				list.Clear();
 				list.AddRange(packet.Channels);
 			}
-			ArraySegment<byte> encodedAudioFrame = packet.EncodedAudioFrame.CopyTo(_bytePool.Get());
+			byte[] buffer = _bytePool.Get();
+			packet.EncodedAudioFrame.CopyTo(buffer);
+			ArraySegment<byte> encodedAudioFrame = new ArraySegment<byte>(buffer, 0, packet.EncodedAudioFrame.Count);
 			VoicePacket item = new VoicePacket(packet.SenderPlayerId, packet.PlaybackOptions.Priority, packet.PlaybackOptions.AmplitudeMultiplier, packet.PlaybackOptions.IsPositional, encodedAudioFrame, packet.SequenceNumber, list);
 			if (!_inputBuffer.TryWrite(item))
 			{

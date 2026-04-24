@@ -118,7 +118,9 @@ namespace Dissonance.Integrations.UNet_HLAPI
 			}
 			if (base.Client != null)
 			{
-				_loopbackQueue.Add(packet.CopyTo(_loopbackBuffers.Get()));
+				byte[] buffer = _loopbackBuffers.Get();
+				packet.CopyTo(buffer);
+				_loopbackQueue.Add(new ArraySegment<byte>(buffer, 0, packet.Count));
 			}
 			return true;
 		}

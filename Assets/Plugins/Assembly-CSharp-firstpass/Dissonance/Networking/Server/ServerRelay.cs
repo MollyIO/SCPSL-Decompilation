@@ -51,7 +51,9 @@ namespace Dissonance.Networking.Server
 						_tmpPeerBuffer.Add(info.Connection);
 					}
 				}
-				data = data.CopyTo(data.Array);
+				byte[] buffer = data.Array;
+				data.CopyTo(buffer);
+				data = new ArraySegment<byte>(buffer, 0, data.Count);
 				if (reliable)
 				{
 					_server.SendReliable(_tmpPeerBuffer, data);

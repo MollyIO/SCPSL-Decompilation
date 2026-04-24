@@ -119,7 +119,10 @@ namespace Dissonance.Networking.Client
 				ReadChannels(ref reader, numChannels, out allClosing, out forceReset, out channelsMetadata, list);
 				if (UpdateSpeakerState(allClosing, forceReset, options.ChannelSession, sequenceNumber, utcNow))
 				{
-					ArraySegment<byte> encodedAudioFrame = reader.ReadByteSegment().CopyTo(_byteArrPool.Get());
+					ArraySegment<byte> source = reader.ReadByteSegment();
+					byte[] buffer = _byteArrPool.Get();
+					source.CopyTo(buffer);
+					ArraySegment<byte> encodedAudioFrame = new ArraySegment<byte>(buffer, 0, source.Count);
 					_events.EnqueueVoiceData(new VoicePacket(Name, channelsMetadata.Priority, channelsMetadata.AmplitudeMultiplier, channelsMetadata.IsPositional, encodedAudioFrame, _localSequenceNumber, list));
 				}
 				if (Open && allClosing)
