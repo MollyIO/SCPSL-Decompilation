@@ -15,15 +15,11 @@ No original assets or proprietary content are claimed as original work or redist
 
 ## ⚙️ Requirements
 
-- Unity Editor: [`2018.2.17f1`](https://github.com/MollyIO/SCPSL-Decompilation) or [`2021.3.45f2`](https://github.com/MollyIO/SCPSL-Decompilation/tree/2021.3.45f2)
-- C# IDE: Visual Studio / Rider  
-  (Visual Studio 2026 was used for decompilation)
+- Unity Editor: `2021.3.45f2` (Check other branches for additional versions.)
+- C# IDE: Visual Studio / Rider (Visual Studio 2026 was used for decompilation)
 
 # 🐞 Known issues
 The versions have not been thoroughly tested, so additional bugs may be present. Please report them in the Issues section on GitHub. Original game bugs are not included in this list.
-## 2018.2.17f1:
-Based on current testing, no issues have been found.
-## 2021.3.45f2
 - Fonts have been reset on some Remote Admin pages.
 
 ## 📃 Credits
